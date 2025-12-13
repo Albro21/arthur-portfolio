@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #191923;
+  --color-secondary: rgba(30,30,40,.88);
+  --color-sidebar: #20202a;
+  --color-sidebar-light: rgba(35,35,45,.98);
+  --color-primary: #ffc107;
+  --color-card: #2d2d3a;
+  --font-poppins: 'Poppins', sans-serif;
+}
